@@ -1,5 +1,11 @@
 # pnpm_tsup_changeset
 
+## 1.7.0
+
+### Minor Changes
+
+- 1.7.0
+
 ## 1.6.0
 
 ### Minor Changes
